@@ -1,0 +1,58 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.hf-c{
+    text-align: center;
+    color: white;
+    background-color: purple;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+  
+}
+nav ul a li img{
+    width:20%;
+    height: 20%;
+    padding: 10%;
+}
+
+nav{
+    width:auto;
+    height: 40%;
+    background-color: aliceblue;
+}
+.body{
+    background-color: gray;
+}
+.banner{
+    height:50%;
+    width:90%;
+    margin:2% 5% 3% 5%;
+}
+.hs{
+ text-align: center;
+}
+table {
+    height:50%;
+    width:90%;
+    margin:2% 5% 3% 5%;
+border-color: black;
+border-collapse: collapse;
+}
+table tr th{
+    background-color: purple;
+}
+footer{
+    background-color: aliceblue;
+    padding:2%;
+}
+.last{
+  background-color: black;
+ color: aliceblue;
+ align-content: center;
+ text-align: center;
+ height: 60px;
+ width:100%;
+}
